@@ -1,3 +1,1 @@
-
-# CodeClauseInternship_Complete-Survery-System
-
+Golden Project 2 : Using  HTML, CSS and Javascript.
