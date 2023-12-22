@@ -1,2 +1,2 @@
-# CodeClauseInternship_Complete_Survery_System
-Golden Project 2 : Complete Survery System
+# CodeClauseInternship_Complete-Survery-System
+https://rashiie.github.io/CodeClauseInternship_Complete-Survery-System/
